@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+}
+
+.image-container>img {
+    max-width: 80vmax;
+    max-height: 80vmin;
+}
+
+
+.title {
+    color: white;
+    text-align: center;
+}
+
+.choice {
+    display: flex;
+    justify-content: center;
+}
