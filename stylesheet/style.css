@@ -3,12 +3,15 @@ body {
     color: white;
 }
 
+canvas {
+    border: 1px white dashed;
+}
 .image-container {
     display: flex;
     justify-content: center;
 }
 
-.image-container>img {
+.image-container>canvas {
     max-width: 80vmax;
     max-height: 80vmin;
 }
@@ -23,3 +26,4 @@ body {
     display: flex;
     justify-content: center;
 }
+
