@@ -6,9 +6,27 @@ body {
 canvas {
     border: 1px white dashed;
 }
+
+p {
+    color: white;
+}
+
+.slider-container>input {
+    width: 25%;
+}
+
+.slider-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 .image-container {
     display: flex;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
 }
 
 .image-container>canvas {
