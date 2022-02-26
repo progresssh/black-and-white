@@ -1,1 +1,1 @@
-javascript dithering using [Floyd-Steinberd algorithm](https://en.wikipedia.org/wiki/Floyd%E2%80%93Steinberg_dithering)
+Black and White experiment
